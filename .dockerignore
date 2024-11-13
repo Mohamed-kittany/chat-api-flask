@@ -1,0 +1,17 @@
+# Ignore virtual environments
+chat-flask-api/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment-specific files
+.env
+*.env
+
+# Temporary files
+*.log
+*.sqlite3
+
+# The `get-pip.py` script
+get-pip.py
